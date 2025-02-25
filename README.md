@@ -7,8 +7,7 @@
 - Xác thực người dùng (Đăng nhập/Đăng xuất/Đăng ký)
 - Quản lý hồ sơ sinh viên (Thêm/Sửa/Xóa/Xem)
 
-## Yêu Cầu
-Trước khi chạy dự án này, hãy đảm bảo rằng bạn đã cài đặt các công cụ sau:
+## Công nghệ sử dụng
 - PHP (>= 8.1)
 - Composer
 - MySQL hoặc SQLite (cho cơ sở dữ liệu)
