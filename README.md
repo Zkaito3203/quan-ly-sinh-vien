@@ -8,10 +8,9 @@
 - Quản lý hồ sơ sinh viên (Thêm/Sửa/Xóa/Xem)
 
 ## Công nghệ sử dụng
-- PHP (>= 8.1)
+- Laravel Framework PHP 
 - Composer
-- MySQL hoặc SQLite (cho cơ sở dữ liệu)
-- Node.js và npm (cho các tài sản frontend)
+- SQLite 
 
 ## Sơ đồ chức năng
 ![z6350919158817_264c1f8a4023bc06209d4a3454a1c655](https://github.com/user-attachments/assets/edbf243a-28fe-41f7-a88a-1a584571a8d8)
