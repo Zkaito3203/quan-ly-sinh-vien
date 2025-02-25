@@ -15,3 +15,4 @@ Trước khi chạy dự án này, hãy đảm bảo rằng bạn đã cài đ�
 - Node.js và npm (cho các tài sản frontend)
 
 ## Sơ đồ chức năng
+![z6350919158817_264c1f8a4023bc06209d4a3454a1c655](https://github.com/user-attachments/assets/edbf243a-28fe-41f7-a88a-1a584571a8d8)
