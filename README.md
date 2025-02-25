@@ -14,3 +14,4 @@ Trước khi chạy dự án này, hãy đảm bảo rằng bạn đã cài đ�
 - MySQL hoặc SQLite (cho cơ sở dữ liệu)
 - Node.js và npm (cho các tài sản frontend)
 
+## Sơ đồ chức năng
